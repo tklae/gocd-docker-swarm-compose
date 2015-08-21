@@ -1,0 +1,1 @@
+Example for setting up go.cd using docker swarm and compose
